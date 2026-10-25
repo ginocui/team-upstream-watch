@@ -1,0 +1,18 @@
+{
+  "schema": "team-upstream-watch/1",
+  "state_root": "./watch-state",
+  "max_checks": 1,
+  "max_seconds": 90,
+  "sources": [
+    {
+      "id": "python-cpython",
+      "repository": "https://github.com/python/cpython",
+      "kind": "repository",
+      "interval_hours": 24
+    }
+  ],
+  "members": [
+    {"id": "alice", "sources": ["python-cpython"]},
+    {"id": "bob", "sources": ["python-cpython"]}
+  ]
+}

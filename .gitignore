@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.test-tmp/
+watch-state/
+*.sqlite3
+*.sqlite3-*
+.env
+*.log
+team.json
+BUILD-STATUS-INTERNAL.md
+ORIGIN-INTERNAL.json

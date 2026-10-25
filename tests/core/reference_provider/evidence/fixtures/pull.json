@@ -1,0 +1,11 @@
+{
+  "id": 555,
+  "number": 134254,
+  "state": "open",
+  "merged": false,
+  "merge_commit_sha": null,
+  "updated_at": "2026-01-02T00:00:00Z",
+  "body": "Synthetic PR body; not a real observation.",
+  "head": {"sha": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "ref": "fix/tool", "repo": {"id": 992, "full_name": "sample/hermes-agent", "private": false}},
+  "base": {"sha": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb", "ref": "main", "repo": {"id": 991, "full_name": "NousResearch/hermes-agent", "private": false}}
+}

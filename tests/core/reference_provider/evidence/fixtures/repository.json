@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "id": 991,
+    "full_name": "NousResearch/hermes-agent",
+    "private": false,
+    "default_branch": "main",
+    "archived": false,
+    "license": {"spdx_id": "MIT", "key": "mit", "name": "MIT License"}
+  },
+  "head": {"sha": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},
+  "release": {
+    "id": 901,
+    "tag_name": "v1.2.3",
+    "published_at": "2026-01-01T00:00:00Z",
+    "body": "Synthetic public release notes.\nNo real remote state."
+  }
+}
